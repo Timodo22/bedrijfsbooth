@@ -1,1 +1,1 @@
-No Content: https://brzkaz-ha.myshopify.com/cdn/shopifycloud/checkout-web/assets/c1/RememberMeDescriptionText.CJHwQ2Sf.js
+No Content: https:/cdn/shopifycloud/checkout-web/assets/c1/RememberMeDescriptionText.CJHwQ2Sf.js
